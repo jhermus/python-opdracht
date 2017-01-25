@@ -28,6 +28,8 @@ Where $V-V^{*}$ is the difference between the value of establishing a business i
 |$h$|share of total skilled labor supply that works in home region|
 |$\rho$, $\rho^{*}$ |the number of immobile workers per entrepreneur for both locations|
 |$\xi$|preference for manufactured goods|
+|$V-V^{*}$|difference in utility of establishing a business between home and foreign location|
+
 
 ​
 
