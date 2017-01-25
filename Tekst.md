@@ -42,7 +42,7 @@ In this model transportation costs are a spreading force, i.e. if transportation
 will be less agglomeration. The reason for this is that it is more profitable for firms to locate
 close to the immobile consumers when the transportation costs are high. Since the price of the
 goods imported from the other region is dependent on the transportation costs the average
-price will increase with transportation costs. It’s also less relevant for the home region how
+price will increase with transportation costs. It is also less relevant for the home region how
 many firms are located in the abroad region since the transportation costs makes them less
 competitive with the home region. A higher transportation costs reduces the earnings of
 entrepreneurs. 
@@ -55,7 +55,7 @@ raises the prices in both the home and foreign region. Since the consumers want
 more variety and are willing to pay more for it there is no reason for the firms to
 locate closer to the immobile consumers. 
 
-## Effect of a lower ratio of immobile to mobile workers ($\rho$) in the economy
+## Effect of a lower ratio of immobile to mobile workers ($\rho$) in both locations
 If there are less immobile workers, the demand market is bigger where most firms are
 located. Entrepreneurs, which are mobile, make up more of the demand market if the ratio
 of immobile to mobile workers goes down. Firms would rather locate where most customers
@@ -64,7 +64,13 @@ like to minimise this amount of customers. When the ratio goes down, there are l
 immobile customers, to which you have to charge a transportation cost, left in the region in
 which you do not locate, and most of your customer base will move to the region with the
 most firms, where you also locate. Therefore firms will agglomerate more, the more the ratio
-of immobile to mobile workers decreases.
+of immobile to mobile workers decreases. 
+
+## Effect of a change in $\rho$ in one location
+If $\rho$ is decreased in only one location, lets say in the home location. This means that the market in the home location is relatively smaller compared to the foreign market. Profits in this market will therefore be lower and thus entrepreneurs will move to the foreign market. Similarly if there are more immobile workers per entrepreneurs in the home market this will lead to an influx of entrepreneurs from the foreign market. 
+
+## Effect of a change in preferences for manufactured goods ($\xi$)
+If preferences for manufactured goods increase, the difference in utility between locations becomes larger. We assume that entrepreneurs will move to the other location more quickly because there is a big difference in utility. In the model there is however no time dimension and thus we can not say anything about the speed of agglomeration. 
 
 # Discussion
 
