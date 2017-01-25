@@ -1,3 +1,8 @@
+|name|ANR|email|
+|----|---|-----|
+|Joep Hermus|568638|j.hermus@tilburguniversity.edu|
+|Freek Heuvelmans|702516|f.j.heuvelmans@tilburguniversity.edu|
+
 # question
 research question: what are the factors influencing the extent of economic agglomeration?
 There are many reasons why it is interesting to know why agglomerations exist. From transport costs and concentration of supply and demand of goods and services, to soaring real estate prices in central cities.
@@ -15,5 +20,21 @@ Where $V-V^{*}$ is the difference between the value of establishing a business i
 
 
 
+|Symbol|Definition|
+|----|---|
+|$\tau$|transport costs|
+|$\sigma$|elasticity of substitution between manufacturing varieties|
+|$\phi$|$\tau^{1-\sigma}$ freeness of trade|
+|$h$|share of total skilled labor supply that works in home region|
+|$\rho$|share of labour to human capital owners/share of immobile to mobile workers|
+|$\xi$|preference for manufactured goods|
+
+​
+
+
 # assumption
 verschil in bevolking tussen twee regios is exogeen (grootendeels)
+
+# Discussion
+
+The Pfluger model we presented is a simple model and it is easy to see what happens if different parameters are changed. The model has however some limitations. Not all agglomeration costs are included in the model. In the model agglomeration in one city means that in the other city prices will be higher. This will lead to more firms moving to this city because profits are higher. Another cost of agglomeration is however not included. If more people concentrate congestion and pollution will become a problem. Furthermore housing prices will increase, this happened for example in San Francisco where house prices have increased as a consequence of companies concentrating in Sillicon Valley.
