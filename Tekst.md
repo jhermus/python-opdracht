@@ -42,19 +42,19 @@ The Pfluger model we presented is a simple model and it is easy to see what happ
 ## references
 <a name="abcd"></a>
 
-A. Ciccone and R. E. Hall (1996). Productivity and the density of economic activity, *American
-Economic Review*, 86, 54 70 .
+[A. Ciccone and R. E. Hall (1996). Productivity and the density of economic activity, *American
+Economic Review*, 86, 54 70 .](https://web.stanford.edu/~rehall/Productivity-AER-March-1996.pdf)
 
-J. V. Henderson (1986). Efficiency of resource usage and city size, *Journal of Urban Economics*, 19,
-47 70 .
+[J. V. Henderson (1986). Efficiency of resource usage and city size, *Journal of Urban Economics*, 19,
+47 70 .](http://www.gonzalo.depeco.econo.unlp.edu.ar/EU1UTDT/henderson86.pdf)
 
-R. L. Moomaw (1981). Productivity and city size: A critique of the evidence, *Quarterly Journal of
-Economics*, 96, 675 688 . Ž .
+[R. L. Moomaw (1981). Productivity and city size: A critique of the evidence, *Quarterly Journal of
+Economics*, 96, 675 688 . Ž .](http://qje.oxfordjournals.org/content/96/4/675.short)
 
-R. Nakamura (1985). Agglomeration economies in urban manufacturing industries: A case of Japanese
-cities, *Journal of Urban Economics*, 17, 108 124 .
+[R. Nakamura (1985). Agglomeration economies in urban manufacturing industries: A case of Japanese
+cities, *Journal of Urban Economics*, 17, 108 124 .](http://www.sciencedirect.com/science/article/pii/0094119085900403)
 
-M. Pflüger (2004). A simple, analytically solvable, Chamberlinian agglomeration model. *Regional Science and Urban Economics*, 34(5), 565-573.
+[M. Pflüger (2004). A simple, analytically solvable, Chamberlinian agglomeration model. *Regional Science and Urban Economics*, 34(5), 565-573.](http://www.diw.de/documents/publikationen/73/diw_01.c.40255.de/dp339.pdf)
 
-L. Sveikauskas (1975). The productivity of cities, *Quarterly Journal of Economics*, 89, 393 413
-Ž . 
+[L. Sveikauskas (1975). The productivity of cities, *Quarterly Journal of Economics*, 89, 393 413
+Ž . ](http://www.jstor.org/stable/pdf/1885259.pdf)
