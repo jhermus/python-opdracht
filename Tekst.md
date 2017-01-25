@@ -26,7 +26,7 @@ Where $V-V^{*}$ is the difference between the value of establishing a business i
 |$\sigma$|elasticity of substitution between manufacturing varieties|
 |$\phi$ $=\tau^{1-\sigma}$|freeness of trade|
 |$h$|share of total skilled labor supply that works in home region|
-|$\rho$|share of labour to human capital owners/share of immobile to mobile workers|
+|$\rho$, $\rho^{*}$ |the number of immobile workers per entrepreneur for both locations|
 |$\xi$|preference for manufactured goods|
 
 ​
