@@ -55,7 +55,7 @@ raises the prices in both the home and foreign region. Since the consumers want
 more variety and are willing to pay more for it there is no reason for the firms to
 locate closer to the immobile consumers. 
 
-## Effect of a lower ratio of immobile to mobile workers ($\rho$) in the economy.
+## Effect of a lower ratio of immobile to mobile workers ($\rho$) in the economy
 If there are less immobile workers, the demand market is bigger where most firms are
 located. Entrepreneurs, which are mobile, make up more of the demand market if the ratio
 of immobile to mobile workers goes down. Firms would rather locate where most customers
