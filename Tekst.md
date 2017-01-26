@@ -3,22 +3,27 @@
 |Joep Hermus|568638|j.hermus@tilburguniversity.edu|
 |Freek Heuvelmans|702516|f.j.heuvelmans@tilburguniversity.edu|
 
-# question
-research question: what are the factors influencing the extent of economic agglomeration?
-There are many reasons why it is interesting to know why agglomerations exist. From transport costs and concentration of supply and demand of goods and services, to soaring real estate prices in central cities. Last but not least, a good amount of studies has found that the concentration of economic activity results in higher productivity and more economic growth [(Ciccone & Hall, 1996; Henderson, 1986; Nakamura, 1985; Moomaw, 1981; Sveikauskas, 1975)](#abcd).
+# Introduction
 
-# method
-In our attempt to answer the question, we rely on the model described by Pflüger (which you can read for free [here](http://www.diw.de/documents/publikationen/73/diw_01.c.40255.de/dp339.pdf))
+From an economic point of view, there are many reasons why it is interesting to know why agglomerations exist. From transport costs and concentration of supply and demand of goods and services, to soaring real estate prices in central cities. Last but not least, a good amount of studies has found that the concentration of economic activity results in higher productivity and more economic growth [(Ciccone & Hall, 1996; Henderson, 1986; Nakamura, 1985; Moomaw, 1981; Sveikauskas, 1975)](#abcd). [Pflüger (2004)](http://www.diw.de/documents/publikationen/73/diw_01.c.40255.de/dp339.pdf) describes a basic model with which to determine the factors that cause agglomeration. Using this model and python we will try to make it easy to answer the question: What are the factors influencing the extent of economic agglomeration?
 
-The model by Pflüger provides a basic understanding of the factors influencing to what extent agglomeration takes place in a space consisting of two citites and their hinterland. However, even the basic model is not easily analised because of the complex equation with which Pflüger concludes. To make this model completely accessible, we use python to present the main equation in a graph, which is also used by Pflüger to illustrate his model, and we add the possibility of adjusting all variables at will using sliders. 
+# Method
 
-The graph below is based on the following equation:
+In the model, agglomeration arises because entrepreneurs choose to settle in one of two locations, both of which have a hinterland consisting of an immobile population (i.e. these people cannot move to the other location). 
+
+The decision to settle in one of the two locations is characterised by the following equation:
 
 $V-V^{*}=\frac{\xi}{\sigma-1}*ln\left(\frac{h+\varphi(1-h)}{1-h+\varphi h}\right) + \frac{\xi (1-\varphi)}{\sigma}\left [ \frac{\rho+h}{h+\varphi(1-h)}-\frac{\rho^{*}+1-h}{1-h+\varphi h} \right ]$
 
-Where $V-V^{*}$ is the difference between the value of establishing a business in the one location versus in the other. This is what all the sources of agglomeration boil down to: if the value of establishing "at home"($V$) is bigger than that of establishing "abroad"($V^{*}$), there will be businesses moving to the "home" location untill balance is restored. Any equilibrium is therefore located either on a point where $V^{*}-V=0$, **or** when all businesses are located at one of the locations. The vertical axis indicates the extent of agglomeration, indicated by the percentage of businesses located in the "home" location. Note that agglomeration can also take place abroad, in this case the percentage of businesses located at home will be below 0.5. Since there is no outside location, the other businesses will be located in the other location. 
+With the following variables
 
+table
 
+For the process by which the final equation arises and the variables enter into it we refer to [the paper by Pflüger](http://www.diw.de/documents/publikationen/73/diw_01.c.40255.de/dp339.pdf).
+
+This model provides a basic understanding of the factors influencing to what extent agglomeration arises in the discussed setting. However, even the basic model is not easily analised because of the complexity of the equation with which Pflüger concludes. To make this model accessible, we use python to present the main equation in a graph, which is also used by Pflüger to illustrate his model, and add the possibility of adjusting all variables at will using sliders. 
+
+Here $V-V^{*}$ is the difference between the value of establishing a business in one location versus in the other. This is what all the sources of agglomeration boil down to: if the value of establishing a business in location A ($V$) is bigger than that of establishing one in location B ($V^{*}$), there will be businesses moving from location B to location A untill $V-V^{*}=0$, **or** untill all businesses are located at one of the locations. The horizontal axis in the graph below indicates the extent of agglomeration, indicated by the percentage of businesses located in location A: $h$. Note that agglomeration can also take place in B, in this case the percentage of businesses located in A will be below 0.5. Since there is no outside location, the businesses  not located in A will be located in B. Below you can find the interactive graph, our main tool with which we answer our research question. In the next section we discuss the main findings which can be derived by adjusting the sliders, and provide some economic intuition based on the complete model. 
 
 |Symbol|Definition|
 |----|---|
