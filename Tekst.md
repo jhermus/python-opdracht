@@ -17,14 +17,6 @@ $V-V^{*}=\frac{\xi}{\sigma-1}*ln\left(\frac{h+\varphi(1-h)}{1-h+\varphi h}\right
 
 With the following variables
 
-table
-
-For the process by which the final equation arises and the variables enter into it we refer to [the paper by Pflüger](http://www.diw.de/documents/publikationen/73/diw_01.c.40255.de/dp339.pdf).
-
-This model provides a basic understanding of the factors influencing to what extent agglomeration arises in the discussed setting. However, even the basic model is not easily analised because of the complexity of the equation with which Pflüger concludes. To make this model accessible, we use python to present the main equation in a graph, which is also used by Pflüger to illustrate his model, and add the possibility of adjusting all variables at will using sliders. 
-
-Here $V-V^{*}$ is the difference between the value of establishing a business in one location versus in the other. This is what all the sources of agglomeration boil down to: if the value of establishing a business in location A ($V$) is bigger than that of establishing one in location B ($V^{*}$), there will be businesses moving from location B to location A untill $V-V^{*}=0$, **or** untill all businesses are located at one of the locations. The horizontal axis in the graph below indicates the extent of agglomeration, indicated by the percentage of businesses located in location A: $h$. Note that agglomeration can also take place in B, in this case the percentage of businesses located in A will be below 0.5. Since there is no outside location, the businesses  not located in A will be located in B. Below you can find the interactive graph, our main tool with which we answer our research question. In the next section we discuss the main findings which can be derived by adjusting the sliders, and provide some economic intuition based on the complete model. 
-
 |Symbol|Definition|
 |----|---|
 |$\tau$|transport costs|
@@ -36,8 +28,13 @@ Here $V-V^{*}$ is the difference between the value of establishing a business in
 |$V-V^{*}$|difference in utility of establishing a business between home and foreign location|
 
 
-​
+For the process by which the final equation arises and the variables enter into it we refer to [the paper by Pflüger](http://www.diw.de/documents/publikationen/73/diw_01.c.40255.de/dp339.pdf).
 
+This model provides a basic understanding of the factors influencing to what extent agglomeration arises in the discussed setting. However, even the basic model is not easily analised because of the complexity of the equation with which Pflüger concludes. To make this model accessible, we use python to present the main equation in a graph, which is also used by Pflüger to illustrate his model, and add the possibility of adjusting all variables at will using sliders. 
+
+Here $V-V^{*}$ is the difference between the value of establishing a business in one location versus in the other. This is what all the sources of agglomeration boil down to: if the value of establishing a business in location A ($V$) is bigger than that of establishing one in location B ($V^{*}$), there will be businesses moving from location B to location A untill $V-V^{*}=0$, **or** untill all businesses are located at one of the locations. The horizontal axis in the graph below indicates the extent of agglomeration, indicated by the percentage of businesses located in location A: $h$. Note that agglomeration can also take place in B, in this case the percentage of businesses located in A will be below 0.5. Since there is no outside location, the businesses  not located in A will be located in B. Below you can find the interactive graph, our main tool with which we answer our research question. In the next section we discuss the main findings which can be derived by adjusting the sliders, and provide some economic intuition based on the complete model. 
+
+graph
 
 # assumption
 verschil in bevolking tussen twee regios is exogeen (grootendeels)
