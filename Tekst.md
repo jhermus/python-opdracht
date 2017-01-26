@@ -65,7 +65,7 @@ If preferences for manufactured goods increase, the division of firms over the t
 
 # Discussion
 
-The Pfluger model we presented is a simple model and it is easy to see what happens if different parameters are changed. The model has however some limitations. Not all agglomeration costs are included in the model. In the model agglomeration in one city means that in the other city prices will be higher. This will lead to more firms moving to this city because profits are higher. Another cost of agglomeration is however not included. If more people concentrate congestion and pollution will become a problem. Furthermore housing prices will increase, this happened for example in San Francisco where house prices have increased as a consequence of companies concentrating in Sillicon Valley.
+The Pfluger model we presented is a simple model and it is easy to see what happens if different parameters are changed. The model has however some limitations. Not all agglomeration costs are included in the model. In the model agglomeration in one city means that in the other city prices will be higher. This will lead to more firms moving to this city because profits are higher. Another cost of agglomeration is however not included. If more people concentrate congestion and pollution will become a problem. Furthermore housing prices will increase in the location of agglomeration, this happened for example in San Francisco where house prices have increased as a consequence of companies concentrating in Sillicon Valley.
 
 **het idee dat prijzen hoger zijn in de locatie waar *geen* agglomeratie is, is misschien appart**
 
