@@ -19,13 +19,13 @@ With the following variables
 
 |Symbol|Definition|
 |----|---|
+|$V-V^{*}$|difference in utility of establishing a business between home and foreign location|
+|$h$|share of total skilled labor supply that works in home region|
 |$\tau$|transport costs|
 |$\sigma$|elasticity of substitution between manufacturing varieties|
 |$\phi$ $=\tau^{1-\sigma}$|freeness of trade|
-|$h$|share of total skilled labor supply that works in home region|
 |$\rho$, $\rho^{*}$ |the number of immobile workers per entrepreneur for both locations|
 |$\xi$|preference for manufactured goods|
-|$V-V^{*}$|difference in utility of establishing a business between home and foreign location|
 
 
 For the process by which the final equation arises and the variables enter into it we refer to [the paper by Pflüger](http://www.diw.de/documents/publikationen/73/diw_01.c.40255.de/dp339.pdf).
