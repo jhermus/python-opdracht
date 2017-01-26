@@ -39,7 +39,7 @@ verschil in bevolking tussen twee regios is exogeen (grootendeels)
 
 # Results
 
-## Effects of transportation costs ($\tau$)
+## Effect of transportation costs ($\tau$)
 In this model transportation costs are a spreading force, i.e. if transportation costs go up there
 will be less agglomeration. The reason for this is that it is more profitable for firms to locate
 close to the immobile consumers when the transportation costs are high. Since the price of the
@@ -50,33 +50,22 @@ competitive with the home region. A higher transportation costs reduces the earn
 entrepreneurs. 
 
 ## Effects of a stronger taste for variety ($\sigma$)
-When consumers have a stronger taste for variety this leads to agglomeration. The
-effect is basically the opposite of the effect by higher transportation costs. It makes
-it easier to export to other regions and increases the earnings for entrepreneurs. It
-raises the prices in both the home and foreign region. Since the consumers want
-more variety and are willing to pay more for it there is no reason for the firms to
-locate closer to the immobile consumers. 
+When consumers have a stronger taste for variety this leads to agglomeration. The effect is the opposite of that of higher transportation costs. It makes it easier to export to other regions because every person is willing to pay more for goods of which he has relatively few. This increases the earnings for entrepreneurs. It also raises prices in both locations. Since consumers are willing to pay more for imported goods there is less incentive for firms to locate closer to the immobile consumers. 
 
 ## Effect of a lower ratio of immobile to mobile workers ($\rho$) in both locations
-If there are less immobile workers, the demand market is bigger where most firms are
-located. Entrepreneurs, which are mobile, make up more of the demand market if the ratio
-of immobile to mobile workers goes down. Firms would rather locate where most customers
-are located because you have a transport cost to customers in the other region, and would
-like to minimise this amount of customers. When the ratio goes down, there are less of these
-immobile customers, to which you have to charge a transportation cost, left in the region in
-which you do not locate, and most of your customer base will move to the region with the
-most firms, where you also locate. Therefore firms will agglomerate more, the more the ratio
-of immobile to mobile workers decreases. 
+If there are fewer immobile workers per entrepreneur, entrepreneurs have more influence on the size of each market by deciding where they settle themselves, because only they can move between locations. I.e. the demand market is bigger where most firms are located. Firms would rather locate where the market is biggest because of the transport costs when exporting goods. Therefore firms will tend to move to the region where most firms are located, and this effect becomes more dominant as the number of immobile people per entrepreneur decreases.
 
 ## Effect of a change in $\rho$ in one location
-If $\rho$ is decreased in only one location, lets say in the home location. This means that the market in the home location is relatively smaller compared to the foreign market. Profits in this market will therefore be lower and thus entrepreneurs will move to the foreign market. Similarly if there are more immobile workers per entrepreneurs in the home market this will lead to an influx of entrepreneurs from the foreign market. 
+If $\rho$ is decreased in only one location, this means that there are fewer immobile people in this location compared to the other region. since firms will want to charge transport costs to as few people as possible, they will settle in the location with the largest number of immobile people per entrepreneur.
 
 ## Effect of a change in preferences for manufactured goods ($\xi$)
-If preferences for manufactured goods increase, the difference in utility between locations becomes larger. We assume that entrepreneurs will move to the other location more quickly because there is a big difference in utility. In the model there is however no time dimension and thus we can not say anything about the speed of agglomeration. 
+If preferences for manufactured goods increase, the division of firms over the two regions does not change. This variable is therefore neither an agglomerating nor a spreading force. We can see that the difference in value of starting a business in a region fluctuates more as $\xi$ increases. A possible explanation for this may be, that because consumers attach more value to industrial goods compared to the subsistence goods, they spend more money on industrial goods, increasing the value of the market and the value for the entrepreneur in optimizing his location. There is no time dimension in this model, however intuitively it makes sense to assume that entrepreneurs will move to the other location more quickly because of the bigger difference in utility.
 
 # Discussion
 
 The Pfluger model we presented is a simple model and it is easy to see what happens if different parameters are changed. The model has however some limitations. Not all agglomeration costs are included in the model. In the model agglomeration in one city means that in the other city prices will be higher. This will lead to more firms moving to this city because profits are higher. Another cost of agglomeration is however not included. If more people concentrate congestion and pollution will become a problem. Furthermore housing prices will increase, this happened for example in San Francisco where house prices have increased as a consequence of companies concentrating in Sillicon Valley.
+
+**het idee dat prijzen hoger zijn in de locatie waar *geen* agglomeratie is, is misschien appart**
 
 # references
 <a name="abcd"></a>
